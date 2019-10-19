@@ -34,6 +34,7 @@ public class TestJUnit4Demo {
         System.out.println("testDemo2");
         assertTrue(false);
         System.out.println("testDemo2");
+        System.out.println("branch1");
     }
 
 }
